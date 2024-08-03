@@ -2,7 +2,8 @@
 
 ---
 
-# LinkedIn Job Application Automation
+# Automating Job Applications on LinkedIn 
+
 
 ## Project Description
 
